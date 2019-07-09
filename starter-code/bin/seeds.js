@@ -46,7 +46,6 @@ const movieArray = [
   },
 ];
 
-
 // Celebrity.create(celebArray)
 // .then(()=>{
 //   console.log('it worked')
